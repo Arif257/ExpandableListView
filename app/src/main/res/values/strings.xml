@@ -1,0 +1,84 @@
+<resources>
+    <string name="app_name">ExpandableListView</string>
+    <string-array name="abbreviation_list_header">
+        <item>a</item>
+        <item>b</item>
+        <item>c</item>
+        <item>d</item>
+        <item>e</item>
+        <item>f</item>
+        <item>g</item>
+        <item>h</item>
+        <item>i</item>
+        <item>j</item>
+        <item>k</item>
+        <item>l</item>
+        <item>m</item>
+        <item>n</item>
+        <item>o</item>
+    </string-array>
+    <string-array name="abbreviations_list_child">
+        <item>
+            aaaaaaaaaaaaaaaaaaaaa
+            \n\naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+        </item>
+        <item>
+            bbbbbbbbbbbbbbbbbbbb
+            \n\nbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+        </item>
+        <item>
+            ccccccccccccccccccc
+            \n\nccccccccccccccccccccccccccccccccccccccccccccccc
+        </item>
+        <item>
+            ddddddddddddddddddd
+            \n\nddddddddddddddddddddddddddddddddddddddddddddddd
+        </item>
+        <item>
+            eeeeeeeeeeeeeeeeee
+            \n\neeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+        </item>
+        <item>
+            ffffffffffffffffff
+            \n\nfffffffffffffffffffffffffffffffffffffffffffffff
+        </item>
+        <item>
+            ggggggggggggggggg
+            \n\ngggggggggggggggggggggggggggggggggggggggggggggggggg
+        </item>
+        <item>
+            hhhhhhhhhhhhhhhhh
+            \n\nhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+        </item>
+        <item>
+            iiiiiiiiiiiiiiii
+            \n\niiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+        </item>
+        <item>
+            jjjjjjjjjjjjjjj
+            \n\njjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj
+        </item>
+        <item>
+            kkkkkkkkkkkkkk
+            \n\nkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
+        </item>
+        <item>
+            lllllllllllll
+            \n\nlllllllllllllllllllllllllllllllllllllllllllllllll
+        </item>
+        <item>
+            mmmmmmmmmmmmm
+            \n\nmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+        </item>
+        <item>
+            nnnnnnnnnnnnn
+            \n\nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+        </item>
+        <item>
+            ooooooooooooo
+            \n\nooooooooooooooooooooooooooooooooooooooooooooooooo
+        </item>
+
+    </string-array>
+
+</resources>
